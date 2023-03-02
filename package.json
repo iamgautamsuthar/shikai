@@ -1,0 +1,14 @@
+{
+  "name": "project-generator-cli",
+  "version": "0.1.0",
+  "description": "a simple project generator cli",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "shikai-app"
+  ],
+  "author": "Jaydeep Suthar",
+  "license": "MIT"
+}
