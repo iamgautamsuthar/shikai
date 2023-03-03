@@ -1,14 +1,18 @@
 {
-	"name": "project-generator-cli",
+	"name": "shikai",
 	"version": "0.1.0",
-	"description": "a simple project generator cli",
+	"description": "Shikai is a simple project generator cli",
 	"main": "src/app.js",
 	"type": "module",
 	"scripts": {
 		"test": "test"
 	},
+	"bin": {
+		"shikai": "src/app.js"
+	},
 	"keywords": [
-		"shikai-app"
+		"shikai",
+		"cli"
 	],
 	"author": "Jaydeep Suthar",
 	"license": "MIT",
